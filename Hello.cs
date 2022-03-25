@@ -10,7 +10,6 @@ namespace Hello
            // Console.WriteLine(inp);
             Console.WriteLine("Hello World");
             Console.Write("Hello jagu");
-            Console.WriteLine(" i love c#"+jagu);
             Console.ReadLine();
         }
     }
