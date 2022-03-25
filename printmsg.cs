@@ -23,6 +23,7 @@ namespace loops
                 i++;
             }
             while (i <= 10);
+            Console.ReadLine();
         }
     }
 }
